@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"ワールドマップ","order":1,"parentId":0,"scrollX":809,"scrollY":461},
 {"id":2,"expanded":false,"name":"最果ての森","order":2,"parentId":1,"scrollX":811,"scrollY":521},
-{"id":3,"expanded":true,"name":"シルビア","order":3,"parentId":1,"scrollX":809,"scrollY":861},
+{"id":3,"expanded":true,"name":"シルビア","order":3,"parentId":1,"scrollX":809,"scrollY":461},
 {"id":4,"expanded":true,"name":"リベルマウンテン","order":15,"parentId":1,"scrollX":811,"scrollY":659},
 {"id":5,"expanded":false,"name":"小屋ベース","order":4,"parentId":3,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":false,"name":"ルインのアジト","order":5,"parentId":3,"scrollX":819,"scrollY":461},
